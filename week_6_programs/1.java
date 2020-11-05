@@ -27,7 +27,7 @@ public class prog1{
 				inverse[j][i]=matrix[i][j];
 			}
 		}
-		System.out.println("The inverse matrix is : ");
+		System.out.println("The transpose matrix is : ");
 		for(i=0;i<n;i++)
 		{
 			for(j=0;j<m;j++)
